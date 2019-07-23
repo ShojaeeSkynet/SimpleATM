@@ -54,7 +54,7 @@ int main()
 
 		
 			cin >> input; 
-			accountAction = input;
+			//accountAction = input;
 		
 		
 			system("cls");
