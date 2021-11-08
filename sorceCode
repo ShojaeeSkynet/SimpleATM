@@ -1,6 +1,4 @@
 
-//This is my first ATM project ! hope some day HSBC buy it .
-
 #include "pch.h"
 #include <iostream>
 #include<conio.h>
