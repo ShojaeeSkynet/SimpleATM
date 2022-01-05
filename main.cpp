@@ -23,10 +23,11 @@ void setup() {
 	}
 	cout << endl;
 }
+
 enum eDeposite{towithdraw=1,toshowbalance=1,todeposite=3};
 eDeposite accountAction;
-int main()
 
+int main()
 {
 	system("color 1e");
 	// Some computation here
@@ -52,12 +53,8 @@ int main()
 		
 			cin >> input; 
 			//accountAction = input;
-		
-		
+	
 			system("cls");
-
-
-
 			switch (input) {
 			case 1:
 				cout << "Your balance is :" << balance << endl;
@@ -100,4 +97,3 @@ int main()
 	}
 
 }
-
